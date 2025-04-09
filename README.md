@@ -1271,18 +1271,8 @@ docs(api): update rate limiting documentation
 
 ## Support
 
-### Documentation
-- [API Documentation](https://api.credpal.com/docs)
-- [Developer Guide](https://api.credpal.com/guide)
-- [FAQ](https://api.credpal.com/faq)
+
 
 ### Contact
-- Email: support@credpal.com
-- Slack: [Join our workspace](https://credpal.slack.com)
-- GitHub Issues: [Report a bug](https://github.com/credpal/fx-trading-app/issues)
-
-### Service Level Agreement (SLA)
-- Availability: 99.9%
-- Response Time: < 4 hours
-- Resolution Time: < 24 hours
+- Email: officialmico500@gmail.com
 ``` 
