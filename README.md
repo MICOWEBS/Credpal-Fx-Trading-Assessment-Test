@@ -518,11 +518,7 @@ JWT_EXPIRATION=1h
 REDIS_HOST=localhost
 REDIS_PORT=6379
 
-# Email
-SMTP_HOST=smtp.example.com
-SMTP_PORT=587
-SMTP_USER=user@example.com
-SMTP_PASS=password
+
 
 # FX API
 FX_API_KEY=your-api-key
